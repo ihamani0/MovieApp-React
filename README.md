@@ -48,7 +48,8 @@ vercel
 Or, deploy via GitHub by linking your repository to Vercel.
 
 ## 📸 Screenshots
-(Insert screenshots of your app here)
+![image](https://github.com/user-attachments/assets/aa0635c4-db9f-4724-803b-2074d5b09600)
+
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
